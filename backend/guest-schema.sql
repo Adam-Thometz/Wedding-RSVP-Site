@@ -1,5 +1,4 @@
 CREATE TABLE guests (
-  id PRIMARY KEY,
   first_name VARCHAR(20),
   last_name VARCHAR(20),
   zipcode VARCHAR(10),
